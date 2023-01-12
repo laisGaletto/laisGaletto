@@ -2,8 +2,7 @@
 - 🌱 I’m currently learning JAVA
 - ❤️ Pronouns: She/Her 
 <div align="center">
-  <a href="https://github.com/laisGaletto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisGaletto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
  
 <div style="display: inline_block"><br>
    <img align="center" alt="Lais-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
