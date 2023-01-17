@@ -1,5 +1,5 @@
 ## Hi, I'm Lais Galetto, I create content about programming and technology!
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning React
 - ❤️ Pronouns: She/Her 
 <div align="center">
 <div style="display: inline_block"><br>
