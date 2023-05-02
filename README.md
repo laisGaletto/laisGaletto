@@ -1,7 +1,7 @@
 ## Hi, I'm Lais Galetto, I create content about programming and technology!
 - 🌱 I’m currently learning React
 - ❤️ Pronouns: She/Her 
-- vacation 
+
 <div align="center">
 <div style="display: inline_block"><br>
    <img align="center" alt="Lais-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
