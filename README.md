@@ -1,4 +1,4 @@
-## Hi, I'm Lais Galetto, I create content about programming and technology!
+## Hi, I'm Lais Galetto!
 - 🌱 I’m currently learning React
 - ❤️ Pronouns: She/Her 
 
